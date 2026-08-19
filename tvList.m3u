@@ -1,0 +1,116 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
+
+#EXTINF:-1 tvg-chno="953" tvg-id="BBCOneNWHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One North West
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneLondonHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-rec="28" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TBN UK" tvg-logo="https://i.imgur.com/9vzEz1b.png" tvg-id="TBNUK.uk" tvg-chno="66" tvg-country="GB" group-title="UK",TBN UK Ⓢ
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+
+#EXTINF:-1 tvg-name="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" tvg-id="TrueCrime.uk" tvg-chno="67" tvg-country="GB" group-title="UK",True Crime Ⓢ
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnews-epg.png" group-title="News" status="online",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcparliament-epg.png",BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT International
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="WION.in" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/wion-epg.png",WION
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:-1 tvg-name="TalkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" tvg-id="TalkTV.uk" tvg-chno="237" tvg-country="GB" group-title="UK",TalkTV
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" tvg-id="BloombergTVEurope.uk" tvg-chno="208" tvg-country="GB" group-title="UK",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+
+
+
+
+
+# ===== MOVIES =====
+
+#EXTINF:-1 tvg-id="PlutoTVMoviesUK.uk" group-title="FAST | Movies",Pluto TV Movies
+https://i.mjh.nz/SamsungTVPlus/GBAK3504504A.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRomanceUK.uk" group-title="FAST | Movies",Pluto TV Romance
+https://i.mjh.nz/SamsungTVPlus/GBAK3504522A.m3u8
+
+#EXTINF:-1 tvg-id="WedoMovies.uk" group-title="FAST | Movies",wedo movies
+https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
+
+#EXTINF:-1 tvg-id="Filmstream.uk" group-title="FAST | Movies",Filmstream
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk" group-title="FAST | Movies",MyTime Movie Network
+https://i.mjh.nz/SamsungTVPlus/GBBA3300059BU.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.uk" group-title="FAST | Movies",MovieSphere
+https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+
+#EXTINF:-1 tvg-id="IconFilms.uk" group-title="FAST | Movies",Icon Films
+https://i.mjh.nz/SamsungTVPlus/GB12000052F.m3u8
+
+#EXTINF:-1 tvg-id="GreatMovies.uk" group-title="FAST | Movies",GREAT! movies
+https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
+
+#EXTINF:-1 tvg-id="GreatRomance.uk" group-title="FAST | Movies",Great! romance
+https://i.mjh.nz/SamsungTVPlus/GBBC900008L9.m3u8
+
+#EXTINF:-1 tvg-id="TopMoviesRakuten.uk" group-title="FAST | Movies",Top Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+
+#EXTINF:-1 tvg-id="ShortsTV.uk" group-title="FAST | Movies",ShortsTV
+https://shortstv-fast-uk-lg.amagi.tv/playlist.m3u8
+
+
+# ===== DOCUMENTARY / FACTUAL =====
+
+#EXTINF:-1 tvg-id="HistoryHit.uk" group-title="FAST | Documentary",History Hit
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.uk" group-title="FAST | Documentary",NatureTime
+https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GetFactual.uk" group-title="FAST | Documentary",Get.Factual
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+
+#EXTINF:-1 tvg-id="DeadlyWomen.uk" group-title="FAST | Documentary",Deadly Women
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWild.uk" group-title="FAST | Documentary",Terra Mater WILD
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.uk" group-title="FAST | Documentary",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.uk" group-title="FAST | Documentary",On the Case
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+
+
+# ===== KIDS =====
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" group-title="FAST | Kids",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+# ===== ENTERTAINMENT / NICHE =====
+
+#EXTINF:-1 tvg-id="ComedyHub.uk" group-title="FAST | Entertainment",Comedy Hub
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClubbingTV.uk" group-title="FAST | Music",Clubbing TV
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
