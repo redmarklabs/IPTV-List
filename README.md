@@ -1,1 +1,3 @@
 # IPTV-List
+
+For Jellyfin.
